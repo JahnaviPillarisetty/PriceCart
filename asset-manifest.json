@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PriceCart/static/css/main.91aa0ad6.css",
+    "main.js": "/PriceCart/static/js/main.4f909cee.js",
+    "static/js/787.d41660c0.chunk.js": "/PriceCart/static/js/787.d41660c0.chunk.js",
+    "index.html": "/PriceCart/index.html",
+    "main.91aa0ad6.css.map": "/PriceCart/static/css/main.91aa0ad6.css.map",
+    "main.4f909cee.js.map": "/PriceCart/static/js/main.4f909cee.js.map",
+    "787.d41660c0.chunk.js.map": "/PriceCart/static/js/787.d41660c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91aa0ad6.css",
+    "static/js/main.4f909cee.js"
+  ]
+}
